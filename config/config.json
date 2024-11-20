@@ -1,0 +1,3 @@
+{
+    "backend_server_url": "http://PUT_IP_HERE:5001/query"
+}
